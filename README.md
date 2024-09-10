@@ -13,7 +13,8 @@ The Sales Dashboard for Outlets and Sales Representatives is designed to provide
 
   
 ![Sales by Outlet](https://github.com/liznjoki/SalesData_PowerBi/assets/117704290/f154de4f-e219-4fc2-8151-45562d9a49b1)
-![Sales by Sales Representative](https://github.com/liznjoki/SalesData_PowerBi/assets/117704290/a1be00d3-2846-4a76-b84d-5d0a1c97b38e)
+!![PowerBi Dashboard](https://github.com/user-attachments/assets/3c05391f-001d-42bd-b9bc-5374f2c3c3bd)
+
 
 
 
